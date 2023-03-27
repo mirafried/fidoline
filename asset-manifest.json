@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.830e74a9.css",
+    "main.js": "/static/js/main.cdc3a1e7.js",
+    "static/js/787.b75db449.chunk.js": "/static/js/787.b75db449.chunk.js",
+    "static/media/vivi.jpg": "/static/media/vivi.8a58cbaed73e52f496b3.jpg",
+    "index.html": "/index.html",
+    "main.830e74a9.css.map": "/static/css/main.830e74a9.css.map",
+    "main.cdc3a1e7.js.map": "/static/js/main.cdc3a1e7.js.map",
+    "787.b75db449.chunk.js.map": "/static/js/787.b75db449.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.830e74a9.css",
+    "static/js/main.cdc3a1e7.js"
+  ]
+}
