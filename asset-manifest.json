@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.830e74a9.css",
-    "main.js": "/static/js/main.cdc3a1e7.js",
-    "static/js/787.b75db449.chunk.js": "/static/js/787.b75db449.chunk.js",
-    "static/media/vivi.jpg": "/static/media/vivi.8a58cbaed73e52f496b3.jpg",
-    "index.html": "/index.html",
-    "main.830e74a9.css.map": "/static/css/main.830e74a9.css.map",
-    "main.cdc3a1e7.js.map": "/static/js/main.cdc3a1e7.js.map",
-    "787.b75db449.chunk.js.map": "/static/js/787.b75db449.chunk.js.map"
+    "main.css": "/fidoline/static/css/main.830e74a9.css",
+    "main.js": "/fidoline/static/js/main.50a3939a.js",
+    "static/js/787.b75db449.chunk.js": "/fidoline/static/js/787.b75db449.chunk.js",
+    "static/media/vivi.jpg": "/fidoline/static/media/vivi.8a58cbaed73e52f496b3.jpg",
+    "index.html": "/fidoline/index.html",
+    "main.830e74a9.css.map": "/fidoline/static/css/main.830e74a9.css.map",
+    "main.50a3939a.js.map": "/fidoline/static/js/main.50a3939a.js.map",
+    "787.b75db449.chunk.js.map": "/fidoline/static/js/787.b75db449.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.830e74a9.css",
-    "static/js/main.cdc3a1e7.js"
+    "static/js/main.50a3939a.js"
   ]
 }
